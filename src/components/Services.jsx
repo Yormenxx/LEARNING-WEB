@@ -34,10 +34,10 @@ function Services() {
                                 whileInView={"animate"}
                                 viewport={{once:true}}
                                 key={index} className="bg-white rounded-2xl flex flex-col items-center gap-4 px-4 py-8 hover:bg-white hover:scale-110 duration-300 hover:shadow-2xl ">
-                                    <div className="text-4xl mb-4 flex justify-center">
+                                    <div className="text-4xl mb-4 flex justify-center text-neutral-700">
                                         {IconComponent && <IconComponent />} 
                                     </div>
-                                    <h1 className="text-lg font-bold text-center px-3 ">
+                                    <h1 className="text-lg font-bold text-center px-3 text-neutral-700 ">
                                         {item.title}
                                     </h1>
                                 </motion.div>
