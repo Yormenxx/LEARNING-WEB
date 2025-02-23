@@ -1,5 +1,6 @@
 import Banner from "./components/Banner"
 import Community from "./components/Community"
+import Footer from "./components/Footer"
 import Hero from "./components/Hero"
 import Navbar from "./components/Navbar"
 import Services from "./components/Services"
@@ -16,6 +17,7 @@ function App() {
     <Banner/>
     <Suscribe/>
     <Community/>
+    <Footer/>
     </>
   )
 }
