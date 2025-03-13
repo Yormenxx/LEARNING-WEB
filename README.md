@@ -9,7 +9,7 @@
 * vite
 * Framer motion
 
-
+Proyecto basado en un institución educativa que ofrece servicios de educación virtuales.
 
 
 
